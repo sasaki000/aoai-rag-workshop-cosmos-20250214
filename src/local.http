@@ -1,3 +1,6 @@
+GET http://localhost:7071/api/chat?q=ウェブのサービス
+
+###
 POST http://localhost:7071/api/indexer
 
 [
